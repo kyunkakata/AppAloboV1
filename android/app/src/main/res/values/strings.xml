@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">BixW8dZSm4I4DnVnZNlq24tqVbcyS1qeF1Xnm</string>
+    <string name="app_name">AloboV1</string>
+    <string name="facebook_app_id">525266117940243</string>
+    <string name="fb_login_protocol_scheme">fb525266117940243</string>
+</resources>

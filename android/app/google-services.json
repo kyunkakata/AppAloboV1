@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "446312037474",
+    "firebase_url": "https://alobo-292b6.firebaseio.com",
+    "project_id": "alobo-292b6",
+    "storage_bucket": "alobo-292b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446312037474:android:249765cdf72b9815",
+        "android_client_info": {
+          "package_name": "com.alobov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446312037474-f2dracekageme3oacu2r3u1cpe0863kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alobov1",
+            "certificate_hash": "7067e3a915bd5dce0fbb5abbbd4a7dc8ddf1a6a3"
+          }
+        },
+        {
+          "client_id": "446312037474-79t7gd3vpj3ke9ka0j6b888gbgtq2uh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2fdNlnikDr3p9bEj-w9rfylOxRKG080"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446312037474-79t7gd3vpj3ke9ka0j6b888gbgtq2uh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

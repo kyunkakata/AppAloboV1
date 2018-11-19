@@ -1,0 +1,12 @@
+export const SIGN_UP='SignUp'
+export const LOGIN = 'Login'
+export const CHOOSING='Choosing'
+export const UPLOAD1='Upload1'
+export const UPLOAD2='Upload2'
+export const UPLOAD3='Upload3'
+export const CHECK1='Check1'
+export const CHECK2='Check2'
+export const MAIN_SCREEN='MainScreen'
+export const DETAIL_SCREEN='DetailScreen'
+export const DRAWER_MENU='drawer'
+
